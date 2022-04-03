@@ -25,4 +25,4 @@ Truffle
 
 ## ER Diagram
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/Images/ER_Diagram.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/ER_diagram.png)
