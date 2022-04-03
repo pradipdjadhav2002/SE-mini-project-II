@@ -26,3 +26,27 @@ Truffle
 ## ER Diagram
 
 ![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/ER_diagram.png)
+
+## Class Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/Class.jpeg)
+
+## Activity Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/Activity1.jpg)
+
+## Collaboration Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/collabration.png)
+
+## Component Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/component2.png)
+
+## State Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/state1.png)
+
+## Sequence Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/sequence.jpg)
