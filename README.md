@@ -22,3 +22,7 @@ Solidity
 Ethereum
 
 Truffle
+
+## ER Diagram
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/Images/ER_Diagram.png)
